@@ -36,6 +36,9 @@ overflow-x: hidden;
 }
 .loginSection{
     padding:100px 0;
+    background-image: url("../images/loginBG.png");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .loginrightSide{
     width:90%;
